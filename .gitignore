@@ -1,0 +1,4 @@
+# intelij
+out/
+.idea
+*.iml
